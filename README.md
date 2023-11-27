@@ -1,6 +1,6 @@
 # CarVista-Design
 
-PROJECT OVERVIEW: Car Showcase Web Design
+OVERVIEW:
 
 The Car Showcase Web Design project is a comprehensive yet user-friendly platform developed using HTML, CSS, and JavaScript to exhibit information about a specific car model. The design emphasizes simplicity and customization, allowing users to easily tailor the showcase to their unique project requirements.
 
